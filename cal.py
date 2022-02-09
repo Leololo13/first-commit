@@ -25,4 +25,8 @@ tk.Button(win, text='C', width=10, height=5).grid(column=3,row=3)
 tk.Button(win, text='=', width=10, height=5).grid(column=3,row=4)
 
 
+print("수정되었다")
+
+
+
 win.mainloop()
